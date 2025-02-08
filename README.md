@@ -62,5 +62,5 @@ DevDependencies
 License
 This project is licensed under the ISC License.
 
-file:///Users/bchinadoll41/Downloads/Vehicle-Builder.webm 
+[file:///Users/bchinadoll41/Downloads/Vehicle-Builder.webm ](https://bootcampspot.instructuremedia.com/lti/launch?custom_arc_launch_type=embed&custom_arc_media_id=72edbc2c-5786-4d88-b96d-f7e07b998014-5400&custom_arc_start_at=0)
 
